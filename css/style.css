@@ -1,0 +1,279 @@
+body{
+	margin: 0;
+	background-color: #FFF;
+}
+
+/* nav-links */
+
+ul#nav{
+	list-style: none;
+	padding-top:10px;
+}
+
+li.list{
+	display: inline;
+	text-align: center;
+	
+}
+
+
+a:hover{
+
+	background-color:navy;
+}
+
+a{
+	padding: 5px 5px 5px;
+	float: left;
+	margin-left: 10px;
+	text-transform:capitalize;
+	text-decoration: none;
+}
+
+/* paragraph */
+
+
+p{
+	margin-left:5px;
+	width: 80%;
+	text-transform: capitalize;
+	text-align: justify;
+}
+
+/*  */
+
+img#image{
+
+	height: 200px;
+	float: left;
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+
+/*  */
+
+
+ul{
+	
+	
+}
+
+li{
+	display: block;
+}
+
+
+/* footer */
+
+#footer{
+	
+	background-color: navy;
+	height: 400px;
+}
+
+/*  */
+
+#img-section{
+
+	height: 360px;
+	width: 400px;
+	margin-left: 50px;
+}
+
+/*  */
+
+#section{
+	
+	background-color: whitesmoke;
+	border-radius: 10px;
+	height: 100px;
+	width:120%;
+}
+
+
+
+/* heading */
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2{
+	text-align: left;
+	font-size: 15px;
+	text-transform:uppercase;
+}
+
+
+h3{
+	text-transform: capitalize;
+	font-weight:bold;
+	
+}
+
+h4{
+	text-transform: capitalize;
+	font-size: 20px;
+}
+
+/*  */
+
+
+hr#line{
+
+	border:none;
+	padding: 1px;
+	background: red;
+	width: 100px;
+	margin-left: 20px;
+	padding: 2px;
+
+}
+
+
+hr#line-2{
+
+	margin-left: 20px;
+	padding: 2px;
+
+}
+
+
+/* VP Image */
+
+#VP{
+
+	margin: 0px;
+
+}
+
+
+/* row */
+
+#row{
+
+	height: 380px;
+	width: 300px;
+
+}
+
+
+
+/* column */
+
+
+#column{
+
+	height: 300px;
+	margin-left: 20px;
+
+}
+
+
+#column-2 {
+
+	padding-bottom: 10px;
+	border-left: 1px solid lightgray;
+
+}
+
+#column-3{
+
+	width:30%;
+	margin-right: 20px;
+	height: 650px; 
+	border-left: 1px solid lightgray;
+	
+
+}
+
+/* panel */
+
+
+#panel {
+
+	padding-bottom: 10px;
+}
+
+/* footer-row */
+
+#footer-row{
+
+	padding-top: 50px;
+
+}
+
+
+
+/* social media - icons */
+
+
+.fa-search{
+
+	margin: 0;
+}
+
+/* paragraph */
+
+
+p#paragraph{
+
+	text-transform: uppercase;
+}
+
+
+/* container */
+
+
+#container {
+
+	padding-bottom: 100px;
+}
+
+
+/* hero-image-slider */
+
+#hero-image{
+	
+	margin: 0;
+	width:100%;
+	height: 450px;
+	background-color: #FFF;
+
+}
+
+/* hero-text */
+
+#hero-text{
+
+	/* height:auto;
+ */	width:48%;
+ 	padding-bottom: 52px;
+	background-color:white;
+}
+
+/* links */
+
+a.links{
+	padding: 1px 2px;
+}
+
+
+a.links:hover{
+
+	color:red;
+	text-decoration: underline;
+}
+
+
+/* horizontal-line */
+
+hr{
+	border:none;
+	padding: 1px;
+	background: red;
+	width: 80px;
+	margin-left: 20px;padding: 2px;
+}
